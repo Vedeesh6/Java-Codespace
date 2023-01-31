@@ -1,4 +1,4 @@
-package Java;
+
 import java.util.Scanner;
 public class Calendar {
     static boolean isleap(int year){if (year%4==0 || year%400==0){return true;}else{return false;}}
