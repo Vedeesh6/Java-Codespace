@@ -9,6 +9,7 @@ Problem
 -------
 You are given a range of integers **{L,L+1,…,R}**. An integer **X** is said to be reachable if it can be represented as a sum of two not necessarily distinct integers 
 in this range. Find the number of distinct reachable integers.
+
 .. |i| raw:: html
 
     <b><sub>i</sub></b>
