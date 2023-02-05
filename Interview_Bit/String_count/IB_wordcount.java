@@ -1,5 +1,3 @@
-package Java;
-
 public class IB_wordcount {
     public static void main(String[] args) {
         String A="pxgacrtzu   fgtmxgrmnvzdkulqtheucvyyjv cbvnzfcckxvvlprt        ";
