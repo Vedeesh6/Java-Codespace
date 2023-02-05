@@ -1,5 +1,3 @@
-package Java.Reference;
-
 import java.util.*;
 
 public class CC_distinctpairsums {
