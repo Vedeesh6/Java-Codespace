@@ -1,4 +1,3 @@
-package Java;
 import java.util.*;
 public class Newton_LifeUniverse {
    public static double d(int i,int j,Integer arr[]) {
