@@ -1,4 +1,3 @@
-package Java;
 import java.util.Vector;
 
 /*Given a string A. The string contains alphanumeric characters.
