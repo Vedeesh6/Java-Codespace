@@ -1,6 +1,6 @@
 public class IB_wordcount {
     public static void main(String[] args) {
-        String A="pxgacrtzu   fgtmxgrmnvzdkulqtheucvyyjv cbvnzfcckxvvlprt        ";
+        String A="pxgacrtzu   fgtmxgrmnvzdkulqtheucvyyjv cbvnzfcckxvvlprt       ";
         int i = 0;
         int count = 0;
         while(i < A.length()) {
