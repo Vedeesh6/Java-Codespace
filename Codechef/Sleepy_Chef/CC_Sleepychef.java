@@ -1,5 +1,3 @@
-package Java;
-
 import java.util.Scanner;
 
 public class CC_Sleepychef {
