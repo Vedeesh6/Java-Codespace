@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class IB_repeatand {
+public class IB_repeatandmissing {
     public static ArrayList<Integer> repeatedNumber(final List<Integer> A) {
 	    
 	    ArrayList<Integer> res = new ArrayList<>();
@@ -29,7 +29,7 @@ public class IB_repeatand {
 	}
     
     public static void main(String[] args) {
-        //ArrayList<Integer> arr = new ArrayList<Integer>();
+        ArrayList<Integer> arr = new ArrayList<Integer>();
         arr.add(2);arr.add(3); arr.add(4);
         arr.add(5);arr.add(3); arr.add(6);
         System.out.println(repeatedNumber(arr));
