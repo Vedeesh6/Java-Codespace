@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Calendar {
+public class Ca {
     static boolean isleap(int year){if (year%4==0 || year%400==0){return true;}else{return false;}}
     public static void main(String[] args) {
         int d=0;
