@@ -1,33 +1,45 @@
-## Proposed changes
+# Description
 
-Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. Your PR title can be also used in here.
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-## Types of changes
+Fixes # (issue)
 
-What types of changes does your content introduce to this project?
-_Put an `x` in the boxes that apply (without "`")_
+## Type of change
 
+Please delete options that are not relevant.
 
-- [ ] Proofreading (fix spelling, grammar, punctuation, accuracy) [Proofreading](https://www.scribbr.com/language-rules/what-is-proofreading/)
-- [ ] New content (new section, new readme, etc)
-- [ ] Modifications (modifying existing content, adding new content)
-- [ ] Other (please describe)
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] This change requires a documentation update
 
-## Checklist
+# How Has This Been Tested?
 
-_Put an `x` in the boxes that apply. You can also fill these out after creating the PR. Don't hesitate to ask if you're unsure about any of them. We're here to help! This simply reminds us of what we will look for before merging your code._
-_Note: If you submit code make sure to test it_
+Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
+- [ ] Test A
+- [ ] Test B
 
-- [ ] Tested any code that was added/modified in this PR
-- [ ] Added the necessary explanation
-- [ ] I have added the necessary links in the working section
-- [ ] Added external links
-- [ ] Added internal links
-- [ ] Added images
-- [ ] Added videos
-- [ ] Added code snippets
+**Test Configuration A**:
+* Input:
+* Expected Output:
+* Explaination:
 
+**Test Configuration B**:
+* Input:
+* Expected Output:
+* Explaination:
+
+# Checklist:
+
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] New and existing unit tests pass locally with my changes
+- [ ] Any dependent changes have been merged and published in downstream modules
 
 ## Further comments
 
@@ -36,9 +48,3 @@ If this is a relatively large or complex change, kick off the discussion by expl
 ## Adding your name to the contributor's list
 Comment "@all-contributors please add @your_username for content" to add your name to the contributor's list.
 _You can change the "content" with any of [this](https://allcontributors.org/docs/en/emoji-key)_
-
-### Reviewers: 
-- [ ] @username
-
-
-_If you add code, please ensure that you are not adding any sensitive information like API keys, secrets, passwords, tokens, usernames, or other credentials. Refrain from adding your name, email, or other personal information to the code._
