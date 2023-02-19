@@ -1,6 +1,6 @@
 # Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the change and which issue is fixed. Please also have relevant motivation and context. List any dependencies that are required for this change.
 
 Fixes # (issue)
 
@@ -23,18 +23,18 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 **Test Configuration A**:
 * Input:
 * Expected Output:
-* Explaination:
+* Explanation:
 
 **Test Configuration B**:
 * Input:
 * Expected Output:
-* Explaination:
+* Explanation:
 
 # Checklist:
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have commented on my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
 - [ ] I have added tests that prove my fix is effective or that my feature works
@@ -43,8 +43,4 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ## Further comments
 
-If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
-
-## Adding your name to the contributor's list
-Comment "@all-contributors please add @your_username for content" to add your name to the contributor's list.
-_You can change the "content" with any of [this](https://allcontributors.org/docs/en/emoji-key)_
+If this is a relatively large or complex change, could you kick off the discussion by explaining why you chose the solution you did, what alternatives you considered, etc...
