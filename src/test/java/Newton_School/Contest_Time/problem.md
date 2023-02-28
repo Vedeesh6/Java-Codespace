@@ -1,4 +1,4 @@
-# [Problem: Squares And Cubes](https://my.newtonschool.co/playground/code/9md3i9jwyjsv)
+# [Problem: Contest Time](https://my.newtonschool.co/playground/code/0vzuohqzxi2n)
 
 Newton School Coding Contest usually starts at **21:00 IST** and lasts for **100 minutes** .
 You are given an integer **K** between 0 and 100 (inclusive). Print the time **K** minutes after 21:00 in the **HH:MM** format, where **HH** denotes the hour on the 24- hour clock and **MM** denotes the minute. If the hour or the minute has just one digit, append a **0** to the beginning to represent it as a **2- digit integer** .
