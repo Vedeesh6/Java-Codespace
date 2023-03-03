@@ -1,7 +1,7 @@
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
-public class Main {
+public class NS_distinct_integers {
     public static void main (String[] args) {
         Scanner sc=new Scanner(System.in);
         Set<Integer> new_arr=new LinkedHashSet<>();
