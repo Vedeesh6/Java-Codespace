@@ -31,7 +31,7 @@ No
 No
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: <br> **2<sup>2</sup> + 2<sup>2</sup> => 4+4 => 8<4<sup>2</sup> => 8<16** <br>
 - For case 2: <br> **10<sup>2</sup> + 10<sup>2</sup> => 100+100 => 200 >10<sup>2</sup> => 200>100** <br>
