@@ -31,7 +31,7 @@ Print the answer.
 1
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: **Distinct Values => 31 9 24** <br>
 - For case 2: **Distinct Values => 0**
