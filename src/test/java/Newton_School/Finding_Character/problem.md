@@ -31,7 +31,7 @@ C
 F
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: ABC
 - For case 2: AABBCCDDEEFF

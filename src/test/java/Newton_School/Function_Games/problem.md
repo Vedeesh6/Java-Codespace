@@ -30,7 +30,7 @@ Print the answer as an integer.
 722502
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: <br> **Apply the formula** <br>
 - For case 2: <br> **Apply the formula**

@@ -33,7 +33,7 @@ Print the time **K** minutes after **21:00** in the format specified in the Prob
 22:40
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: <br> **21:00 + 63 => 60 min = 1 hr <br> 21 + 1 = 22 and 63 - 60 = 3 <br> 3 => 03 <br> 22:03** <br>
 - For case 2: <br> **21:00 + 45 => 21:45** <br>

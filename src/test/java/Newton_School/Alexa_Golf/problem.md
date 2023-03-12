@@ -40,7 +40,7 @@ NG
 OK
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: **504** <br>
 - For case 2: **No answer** <br>
