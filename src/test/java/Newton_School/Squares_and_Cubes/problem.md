@@ -29,7 +29,7 @@ Print the answer.
 1110
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: **2 + 4 + 8**
 - For case 2: **10 + 100 + 1000**
