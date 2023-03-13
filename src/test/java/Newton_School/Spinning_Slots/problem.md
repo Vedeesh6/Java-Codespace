@@ -30,7 +30,7 @@ Won
 Lost
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: **All letters are same** <br>
 - For case 2: **One letter is different**
