@@ -1,4 +1,4 @@
-public class Solution {
+public class IB_intinstr {
     public int[] solve(String A) {
         int[] arr = new int[A.length()];
         int count=0;
