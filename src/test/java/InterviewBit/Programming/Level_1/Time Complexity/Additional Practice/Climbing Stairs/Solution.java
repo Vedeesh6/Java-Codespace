@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int solve(int[] A) {
         int[] costArr = new int[A.length];
         costArr[0] = A[0];
