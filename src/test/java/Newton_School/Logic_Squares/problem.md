@@ -32,7 +32,7 @@ Print a string of length 4 such that the **i<sup>th</sup>** character is 1 if th
 0111
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: **0 --> 101 --> 1** <br>
 - For case 2: **0 --> 000 --> 0** <br>

@@ -31,7 +31,7 @@ Print the answer as an integer.
 99
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: **100 - 1 + 2** <br>
 - For case 2: **100 - 2 + 1**

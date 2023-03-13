@@ -34,7 +34,7 @@ No
 Yes
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: <br> **4<sup>th</sup>** character is x hence rainy** <br>
 - For case 2: <br> **7<sup>th</sup>** character is o hence sunny** <br>

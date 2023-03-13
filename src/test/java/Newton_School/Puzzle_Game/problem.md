@@ -33,7 +33,7 @@ Print the number of integers not less than **A** and not more than **B** .
 0
 ```
 
-## Explaination
+## Explanation
 
 - For case 1: <br> **2, 3 and 4** <br>
 - For case 2: <br> **10, 11 ..... 100** <br>
