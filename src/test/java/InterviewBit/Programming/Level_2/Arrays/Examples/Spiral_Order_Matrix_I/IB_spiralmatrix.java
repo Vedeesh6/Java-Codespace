@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class IB_spiralmatrix {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
     public int[] spiralOrder(final int[][] A) {
