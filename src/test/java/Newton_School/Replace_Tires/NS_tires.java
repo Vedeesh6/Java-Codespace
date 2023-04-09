@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Test_NS {
+public class NS_tires {
     /*
     To solve this problem, first check if n is divisible by both 4 and 6, if yes then output n/6 as minimum buses and n/4 as maximum buses. 
     If n is not divisible by both 4 and 6 or by 6 only and (n-(n/6)*6)%4!=0, then output -1. 
