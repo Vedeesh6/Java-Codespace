@@ -8,5 +8,4 @@ Note#1 -> Create a seperate folder and include your code file as well as problem
 <br>
 Note#2 -> Try to always include a special type of solution <br>
 <br>
-
 **Please use format of problem_template from .github directory for submitting your problem statement**
