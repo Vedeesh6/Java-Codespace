@@ -1,7 +1,7 @@
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
-publi class NS_findx {
+public class NS_findx {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n=sc.nextLong(),x=sc.nextLong(),count=0;sc.close();
