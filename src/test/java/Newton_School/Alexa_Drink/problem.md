@@ -31,7 +31,3 @@ Your output is considered correct when its absolute or relative error from our a
 166.50
 0.00
 ```
-
-## Explanation
-
-Try to devise your own explanation
