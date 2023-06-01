@@ -36,5 +36,5 @@ Alexa
 
 ## Explanation
 
-- For case 1: <br> **Bob has 3** <br>
-- For case 2: <br> **Alexa has 4**
+- For case 1: <br> **Bob has 3 unique numbers** <br>
+- For case 2: <br> **Alexa has 4 unique numbers**
