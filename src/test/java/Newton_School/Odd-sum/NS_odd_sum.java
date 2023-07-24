@@ -1,7 +1,7 @@
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
-public class NS_oddsum1.java {
+public class NS_odd_sum.java {
     public static void main (String[] args) {
         Scanner sc=new Scanner(System.in);
         boolean flag_odd=false,flag_even=false;int count=0;
