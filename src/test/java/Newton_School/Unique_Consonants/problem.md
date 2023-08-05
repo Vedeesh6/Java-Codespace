@@ -24,7 +24,7 @@ aabbe
 
 - Output:
 ```
-2
+1
 ```
 
 ## Explanation
