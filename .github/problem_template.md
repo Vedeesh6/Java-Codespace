@@ -24,7 +24,7 @@ different cases here
 
 - Output:
 ```
-diferent outputs here
+different outputs here
 ```
 
 ## Explanation
