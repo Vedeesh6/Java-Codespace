@@ -43,13 +43,3 @@ public class NS_patinhos{
         System.out.println(maxDoctors);
     }
 }
-
-class Pair {
-    int come;
-    int go;
-
-    Pair(int come, int go) {
-        this.come = come;
-        this.go = go;
-    }
-}
