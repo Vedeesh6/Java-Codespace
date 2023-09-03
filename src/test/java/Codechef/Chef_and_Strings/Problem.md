@@ -1,7 +1,8 @@
 # [Problem: Chef and Strings](https://www.codechef.com/problems/CHEFSTR1)
 
-Having already mastered cooking, Chef has now decided to learn how to play the guitar. Often while trying to play a song, Chef has to skip several strings to reach the string he has to pluck. Eg. he may have to pluck the 1<sup>st</sup> string and then the 6<sup>th</sup> string. This is easy in guitars with only 6 strings; However, Chef is playing a guitar with 10<sup>6</sup> strings. In order to simplify his task, Chef wants you to write a program that will tell him the total number of strings he has to skip while playing his favourite song. 
+Having already mastered cooking, Chef has now decided to learn how to play the guitar. Often while trying to play a song, Chef has to skip several strings to reach the string he has to pluck. Eg. he may have to pluck the 1<sup>st</sup> string and then the 6<sup>th</sup> string. This is easy in guitars with only 6 strings; However, Chef is playing a guitar with 10<sup>6</sup> strings. In order to simplify his task, Chef wants you to write a program that will tell him the total number of strings he has to skip while playing his favourite song. <br><br>
 
+<img src="https://codechef_shared.s3.amazonaws.com/download/Images/JULY20/CHEFSTR1/CHEFSTR1.png" height="300px" /><br><br>
 
 This is how guitar strings are numbered (In ascending order from right to left). Eg. to switch from string 1 to 6, Chef would have to skip 4 strings (2,3,4,5).
 
