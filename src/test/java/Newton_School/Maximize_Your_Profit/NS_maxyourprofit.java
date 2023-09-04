@@ -1,9 +1,7 @@
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
-// don't change the name of this class
-// you can add inner classes if needed
-class Main {
+public class NS_maxyourprofit {
     static int maxProfit(int prices[], int size)
     {
         int maxProfit = 0,min=prices[0];
