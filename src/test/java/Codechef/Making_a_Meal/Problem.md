@@ -11,10 +11,10 @@ In the cauldron, the letters of the strings representing the ingredients complet
 
 ## Constraints
 
-1≤T≤100
-1≤N≤100
- ∣≤1,000
-each string contains only lowercase English letters
+- 1 ≤ T ≤ 100
+- 1 ≤ N ≤ 100
+- |S<sub>1</sub>|, |S<sub>2</sub>|,..., |S<sub>N</sub>| ≤ 1000
+- Each string contains only lowercase English letters
 
 ## Output
 
@@ -24,15 +24,36 @@ For each test case, print a single line containing one integer — the maximum n
 
 - Input:
 ```
-different cases here
+3
+6
+cplusplus
+oscar
+deck
+fee
+hat
+near
+5
+code
+hacker
+chef
+chaby
+dumbofe
+5
+codechef
+chefcode
+fehcedoc
+cceeohfd
+codechef
 ```
 
 - Output:
 ```
-different outputs here
+1
+2
+5
 ```
 
 ## Explanation
 
-- For case 1: Give explanantion for each test case if any <br>
-- For case 2: ----------------
+- For case 1: After mixing, the cauldron contains the letter 'c' 3 times, the letter 'e' 4 times, and each of the letters 'o', 'd', 'h' and 'f' once. Clearly, this is only enough for one "codechef" meal. <br>
+- For case 2: After mixing, the cauldron contains the letter 'c' 4 times, 'o' 2 times, 'd' 2 times, 'e' 4 times, 'h' 3 times and 'f' 2 times, which is enough to make 2 meals.
