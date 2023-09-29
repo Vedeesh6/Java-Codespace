@@ -31,7 +31,7 @@ public class NS_classsorting {
 
 class Pair1{
     String name;int marks,roll;
-    Pair(String name,int marks,int roll){
+    Pair1(String name,int marks,int roll){
         this.name=name;
         this.marks=marks;
         this.roll=roll;
