@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class LS_3Sum{
+class LC_3Sum{
     public static void main(String args[])throws IOException
     {
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
@@ -14,7 +14,7 @@ class LS_3Sum{
             for(int i = 0; i < N; i++)
                 Arr[i] = Integer.parseInt(input_line[i]);
            
-            Solution ob = new Solution();
+            LC_3Sum_Solution ob = new LC_3Sum_Solution();
             List<List<Integer>> ans=ob.threeSum(Arr);
             for(int i=0;i<ans.size();i++){
                 for(int j=0;j<ans.get(i).size();j++){
@@ -26,7 +26,7 @@ class LS_3Sum{
     }
 }
 
-class Solution {
+class LC_3Sum_Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         Set<List<Integer>> ans=new HashSet<>();

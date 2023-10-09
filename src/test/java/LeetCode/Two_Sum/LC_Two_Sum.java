@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class LS_Two_Sum{
+class LC_Two_Sum{
     public static void main(String args[])throws IOException
     {
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
@@ -14,7 +14,7 @@ class LS_Two_Sum{
             for(int i = 0; i < N; i++)
                 Arr[i] = Integer.parseInt(input_line[i]);
             int x=Integer.parseInt(read.readLine());
-            Solution ob = new Solution();
+            LC_Two_Sum_Solution ob = new LC_Two_Sum_Solution();
             int ans[]=ob.twoSum(Arr,x);
             for(int i=0;i<2;i++){
                     System.out.print(ans[i]+" ");
@@ -24,7 +24,7 @@ class LS_Two_Sum{
     }
 }
 
-class Solution {
+class LC_Two_Sum_Solution {
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {

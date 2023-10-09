@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class LS_4Sum{
+class LC_4Sum{
     public static void main(String args[])throws IOException
     {
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
@@ -14,7 +14,7 @@ class LS_4Sum{
             for(int i = 0; i < N; i++)
                 Arr[i] = Integer.parseInt(input_line[i]);
             int x=Integer.parseInt(read.readLine());
-            Solution ob = new Solution();
+            LC_4Sum_Solution ob = new LC_4Sum_Solution();
             List<List<Integer>> ans=ob.fourSum(Arr,x);
             for(int i=0;i<ans.size();i++){
                 for(int j=0;j<ans.get(i).size();j++){
@@ -26,7 +26,7 @@ class LS_4Sum{
     }
 }
 
-class Solution {
+class LC_4Sum_Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> ans=new ArrayList<>();
         Arrays.sort(nums);
