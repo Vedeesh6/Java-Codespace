@@ -1,4 +1,4 @@
-class Baseball_Game {
+class LC_Baseball_Game {
     public int calPoints(String[] operations) {
         ArrayList<Integer> al = new ArrayList<>();
         int sum = 0;
