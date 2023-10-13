@@ -29,5 +29,5 @@ different outputs here
 
 ## Explanation
 
-- For case 1: Give explanantion for each test case if any <br>
+- For case 1: Give explanantion for each test case if any 
 - For case 2: -------------------
