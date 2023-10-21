@@ -1,7 +1,7 @@
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
-public class NS_simplifyalphastreams{
+public class NS_simplifyalphastream{
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         String arg=sc.next(),res=arg.charAt(0)+"";
