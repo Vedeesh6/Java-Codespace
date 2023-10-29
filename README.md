@@ -17,7 +17,7 @@ Your contribution will be reviewed by the maintainers of the repository. Once it
 
 ### Please note :
 - All code should be well-written and easy to read.
-- All problem statements should be clear and concise, and should include a description of the problem, a sample input/output, and a solution.
+- All problem statements should be clear and concise and should include a description of the problem, a sample input/output, and a solution.
 - If you are unsure about how to contribute, please feel free to ask for help.
 <br>
 
