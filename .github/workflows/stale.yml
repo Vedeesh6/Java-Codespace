@@ -19,6 +19,8 @@ jobs:
           close-pr-message: 'This pull request has been closed. Please reopen this once you commit the changes requested or make improvements to the code. If this is not the case and you need some help, feel free to seek help by mailing me at "vedeesh6@gmail.com". Thank you for your contributions!'
           exempt-issue-labels: 'dont-close'
           exempt-pr-labels: 'dont-close'
+          close-issue-label: 'Closed-Stale'
+          close-pr-label: 'Closed-Stale'
           days-before-pr-stale: 14
           days-before-issue-stale: 60
           days-before-pr-close: 3
