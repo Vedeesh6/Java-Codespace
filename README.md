@@ -21,5 +21,4 @@ Your contribution will be reviewed by the maintainers of the repository. Once it
 <br>
 
 **To start off, you can view the issues**
-
 ### Thank you for your interest in contributing to the Java Codespace repository!
