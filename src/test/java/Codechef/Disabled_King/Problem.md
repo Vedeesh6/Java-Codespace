@@ -1,0 +1,52 @@
+# [Problem: Disabled King](https://www.codechef.com/problems/DISABLEDKING)
+
+Chef loves Chess and has thus invented a new piece named "Disabled King".
+
+Let's denote the cell at the intersection of the i-th column from the left and j-th row from the top by (i,j).
+
+If he is currently in cell (x,y), the disabled king can move to the following positions in one move (provided that he remains in the chessboard):
+
+- (x,y+1)
+- (x,y−1)
+- (x+1,y+1)
+- (x+1,y−1)
+- (x−1,y+1)
+- (x−1,y−1)
+
+In short, the Disabled King cannot move horizontally.
+
+In an N×N chessboard, the Disabled King is currently situated at the top-left corner (cell (1,1)) and wants to reach the top-right corner (cell (N,1)). Determine the minimum number of moves in which the task can be accomplished.
+
+## Input
+
+- The first line will contain T, the number of test cases. Then the test cases follow.
+- Each test case contains a single integer N in a separate line.
+
+## Constraints
+
+- 1 ≤ T ≤ 500
+- 2 ≤ N ≤ 500
+
+## Output
+
+Output the minimum number of moves to get from the top-left cell to the top-right one.
+
+## Sample
+
+- Input:
+```
+2
+2
+3
+```
+
+- Output:
+```
+2
+2
+```
+
+## Explanation
+
+- For case 1: Initially chef is at (1,1). He cannot directly move to (2,1) as the disabled king cannot move horizontally. So he needs at least 2 moves to reach (2,1). And that can be achieved by first moving to (1,2) and then moving to (2,1) from there.
+- For case 2: Clearly we cannot reach (3,1) from (1,1) in just one move. We require at least 2 moves. And this can be achieved by first moving to (2,2) and then moving to (3,1) from there.
