@@ -1,40 +1,30 @@
-# [Problem: Contest Time](https://my.newtonschool.co/playground/code/0vzuohqzxi2n)
+# [Problem: Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string)
 
-Newton School Coding Contest usually starts at **21:00 IST** and lasts for **100 minutes** .
-You are given an integer **K** between 0 and 100 (inclusive). Print the time **K** minutes after 21:00 in the **HH:MM** format, where **HH** denotes the hour on the 24- hour clock and **MM** denotes the minute. If the hour or the minute has just one digit, append a **0** to the beginning to represent it as a **2- digit integer** .
-
-## Input
-
-The input consists of a single integer.
-**K**
+Given an array of strings nums containing n unique binary strings each of length n, return a binary string of length n that does not appear in nums. If there are multiple answers, you may return any of them.
 
 ## Constraints
 
-**1 ≤ K ≤ 100** <br>
-**K** is an integer.
+- n == nums.length
+- 1 <= n <= 16
+- nums[i].length == n
+- nums[i] is either '0' or '1'.
+- All the strings of nums are unique.
 
-## Output
-
-Print the time **K** minutes after **21:00** in the format specified in the Problem Statement.
-
-## Sample
-
-- Input:
+### Example 1:
 ```
-63
-45
-100
+Input: nums = ["01","10"]
+Output: "11"
+Explanation: "11" does not appear in nums. "00" would also be correct.
 ```
-
-- Output:
+### Example 2:
 ```
-22:03
-21:45
-22:40
+Input: nums = ["00","01"]
+Output: "11"
+Explanation: "11" does not appear in nums. "10" would also be correct.
 ```
-
-## Explanation
-
-- For case 1: <br> **21:00 + 63 => 60 min = 1 hr <br> 21 + 1 = 22 and 63 - 60 = 3 <br> 3 => 03 <br> 22:03** <br>
-- For case 2: <br> **21:00 + 45 => 21:45** <br>
-- For case 3: <br> **21:00 + 100 => 60 min = 1 hr <br> 21 + 1 = 22 and 100 - 60 = 40 <br> 22:40** <br>
+### Example 3:
+```
+Input: nums = ["111","011","001"]
+Output: "101"
+Explanation: "101" does not appear in nums. "000", "010", "100", and "110" would also be correct.
+```
