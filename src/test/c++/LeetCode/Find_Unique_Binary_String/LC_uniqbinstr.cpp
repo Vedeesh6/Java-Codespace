@@ -1,3 +1,4 @@
+#include <string>
 
 using namespace std;
 class LC_uniqbinstr {
