@@ -1,3 +1,9 @@
+#include <string>
+#include <vector>
+#include <bitset>
+#include <unordered_set>
+
+using namespace std;
 class LC_uniqbinstr {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
