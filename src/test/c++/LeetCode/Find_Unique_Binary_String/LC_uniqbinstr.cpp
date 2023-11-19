@@ -1,3 +1,5 @@
+
+using namespace std;
 class LC_uniqbinstr {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
