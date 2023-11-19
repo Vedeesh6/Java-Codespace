@@ -15,4 +15,5 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y build-essential g++
       
     - name: Syntax Check
-      run: g++ -c -Wall *.cpp
+      run: |
+        find . -name "*.cpp" | xargs g++ -c -Wall
