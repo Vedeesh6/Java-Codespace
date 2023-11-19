@@ -1,6 +1,6 @@
 #include <vector>
-#include <algorithms>
 
+using namespace std;
 class LC_minmaxsumarr {
 public:
     int minPairSum(vector<int>& nums) {
