@@ -1,4 +1,4 @@
-class minmaxsumarr {
+class LC_minmaxsumarr {
 public:
     int minPairSum(vector<int>& nums) {
         sort(nums.begin(), nums.end());
