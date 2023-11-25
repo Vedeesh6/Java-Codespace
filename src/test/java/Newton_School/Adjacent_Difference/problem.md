@@ -1,4 +1,4 @@
-# [Problem: Contest Time](https://my.newtonschool.co/playground/code/0vzuohqzxi2n)
+# [Problem: Adjacent Difference](https://my.newtonschool.co/playground/code/86irx6rrc7z2)
 
 Given a positive integer n, calculate the sum of the absolute difference between each pair of adjacent digits.
 
