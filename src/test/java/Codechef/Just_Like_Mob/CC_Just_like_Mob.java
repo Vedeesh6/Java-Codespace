@@ -5,7 +5,7 @@ import java.lang.*;
 import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
-class CC_Just_Like_Mob!
+class CC_Just_Like_Mob
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
