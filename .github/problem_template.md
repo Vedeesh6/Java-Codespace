@@ -1,5 +1,5 @@
 Note -> use **to highlight** important variables, to<sup>superscript</sup> something and to<sub>subscript</sub> something (delete this statement)
-# [Problem: Problem Name here](link from site)
+# [Problem: (Problem Name here)](link from site)
 
 Problem Statement here 
 
