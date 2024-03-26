@@ -3,7 +3,7 @@ import java.util.*; // contains Collections framework
 
 // don't change the name of this class
 // you can add inner classes if needed
-class NS_maxnum {
+class NS_maximumnum {
     public static void main (String[] args) {
         Scanner sc=new Scanner(System.in);
         int x=sc.nextInt(),y=sc.nextInt();
