@@ -1,7 +1,7 @@
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
-public class NS_fibsum{
+public class NS_sumoffib{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();sc.close();
