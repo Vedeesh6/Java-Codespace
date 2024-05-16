@@ -3,7 +3,7 @@ import java.util.*; // contains Collections framework
 
 // don't change the name of this class
 // you can add inner classes if needed
-class NS_ binproduct{
+class NS_binproduct{
     static final int MAX = 100007;
     static final int MOD = 1000000007;
     static List<Integer> binaryDecimals = new ArrayList<>();
