@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Codechef
+class CC_Covid_Spread
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
