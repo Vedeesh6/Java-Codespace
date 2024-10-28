@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-class Solution {
+class LC_remsubfromfile {
 public:
     static vector<string> removeSubfolders(vector<string>& folder) {
         const int n=folder.size();
