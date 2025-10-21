@@ -1,3 +1,4 @@
+import java.util.*;
 class LC_maxfreqeleafterop1 {
 
     public int maxFrequency(int[] nums, int k, int numOperations) {
